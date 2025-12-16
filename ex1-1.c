@@ -20,3 +20,7 @@ error: ‘Hello’ undeclared
 Remove { }
 error: expected ‘{’ before ‘printf’
 */
+
+/* output 
+Hello, World
+*/
